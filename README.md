@@ -1,6 +1,8 @@
-# cv
+# CV
 My resume...
 
-[Pages version (MacOS)](https://github.com/stephanepiriou/cv/blob/master/CV%20(Stephane%20Piriou).pages)
+## Version
 
-[PDF version](https://github.com/stephanepiriou/cv/blob/master/CV%20(Stephane%20Piriou).pdf)
+- [Pages version (MacOS)](https://github.com/stephanepiriou/cv/blob/master/CV%20(Stephane%20Piriou).pages)
+
+- [PDF version](https://github.com/stephanepiriou/cv/blob/master/CV%20(Stephane%20Piriou).pdf)
